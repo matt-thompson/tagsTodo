@@ -1,0 +1,11 @@
+{
+  "name": "todomvc-tags",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "director": "~1.2.0",   
+    "log4javascript": "~1.4.0",
+    "todomvc-common": "~0.1.8",
+    "tags": "~0.9.4"
+  }
+}
