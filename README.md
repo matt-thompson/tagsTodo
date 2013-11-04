@@ -3,7 +3,7 @@
 > The Tags framework provides a way to extend HTML with custom tags backed up with Javascript
 and use the custom tag paradigm to simplify Web application development.
 
-> _[Tags framework](https://github.com/matt-thompson/tags.git)_
+> _[Tags framework](https://github.com/matt-thompson/tagsTodo.git)_
 
 
 ## Learning Tags
